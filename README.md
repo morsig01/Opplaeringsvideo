@@ -1,4 +1,3 @@
-# Skole
+# Opplæringsvideo
 
-Mitt navn er morgan og går 2INF på [Hamar Katedralskole](https://www.hamar-katedral.vgs.no/).
-Denne README.md filen er en introduksjon til GitHub.
+Her er [Opplæringsvideoen](https://innlandet-my.sharepoint.com/:v:/g/personal/morsig01_innlandetfylke_no/Ecvj6S_WUnJGomvtZgJydwIBOFLlDSXNm4aFI5ZbM2DNYA?e=fgXjFX) til de som trenger hjelp med å få nytt passord til sin Innlandet-bruker.
